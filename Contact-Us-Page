@@ -1,15 +1,24 @@
 #Written by Mubeen Khan
 #yes i got bored so i sort of coded it (sorry james i used w3schools to assist me)
 <head>
-    <nav>
-      [Link to "Adopt a Pet" page] #Connor
-      [Link to "Shop Now" page] #Arshvir
-      [Link to "Contact Us" page] #Mubeen
-      [Link to "About Us" page] #Maks
-      [Link to "Locations" page] #Dylan
-    </nav>
+	<section >
+		<a id="buttonL" href="Adopt-A-Pet-Page.html">Adopt a Pet</a>
+		<a id="buttonL" href="Shop-Now-Page.html">Shop Now</a>
+		<a id="buttonL" href="Contact-Us-Page.html">Contact Us</a>
+		<a id="buttonL" href="About-Us-Page.html">About Us</a>
+		<a id="buttonL" href="Location-Page.html">Locations</a>
+	</section>
     <title>Contact Us</title>
     <style>
+		#buttonL {
+			background-color: #45a049;
+			color: white;
+			padding: 15px 25px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+		}
+	
         body {
             font-family: 'Arial', sans-serif;
             text-align: center;
@@ -43,7 +52,8 @@
         }
 
         input[type="submit"]:hover {
-            background-color: #45a049;}
+            background-color: #45a049;
+		}
     </style>
 </head>
 <body>
