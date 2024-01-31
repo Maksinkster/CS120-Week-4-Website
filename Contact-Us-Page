@@ -1,6 +1,13 @@
 #Written by Mubeen Khan
-#yes i got bored so i coded it (sorry james)
+#yes i got bored so i sort of coded it (sorry james i used w3schools to assist me)
 <head>
+    <nav>
+      [Link to "Adopt a Pet" page] #Connor
+      [Link to "Shop Now" page] #Arshvir
+      [Link to "Contact Us" page] #Mubeen
+      [Link to "About Us" page] #Maks
+      [Link to "Locations" page] #Dylan
+    </nav>
     <title>Contact Us</title>
     <style>
         body {
