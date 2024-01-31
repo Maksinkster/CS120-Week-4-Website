@@ -2,5 +2,5 @@ Group Project by:
 Maks Inkster,
 Connor Hirdman,
 Arshvir Jillich,
-Dylan Kipchumba,
-Mubeen Khan
+Dylan Kipchumba, and
+Mubeen Khan :3
