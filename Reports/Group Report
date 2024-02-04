@@ -1,1 +1,5 @@
-
+At first we created a team's groupchat to organise our initial efforts via texts and calls. These sessions were crucial to making sure everyone was aware of their individual tasks. From there, a GitHub repo was created allowing us to have two branches: Main and Dev. 
+Our group's use of GitHub for the group project changed the way we collaborated. We were able to work on multiple pages at the same time with ease by using our dev branch, which ensured quick and flawless progress. The pull request function on GitHub was also essential to organising our team's efforts.
+As a group, we understood how important a version control system is to preserving the integrity of our project. We could test out our ideas in the dev branch without having an impact on the main branch, which allowed the dev branch to function as a sandbox. Pull requests served as our entry point for incorporating these ideas into the main project branch which at the same time encouraged an organised, methodical approach.
+ 
+Our experience on GitHub was short lived but educational. Using features such as branches, committing changes and pull requests were all new experiences. Git and GitHub will continue to be essential components of our future dev projects throughout the future as we learn about new practices 
